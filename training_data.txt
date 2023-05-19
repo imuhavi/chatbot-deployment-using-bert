@@ -1,0 +1,6 @@
+Hi	greeting
+Hello	greeting
+Hey	greeting
+Goodbye	goodbye
+Bye	goodbye
+See you later	goodbye
